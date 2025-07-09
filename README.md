@@ -1,5 +1,6 @@
 # ⛅ Weather CLI App (Python)
 
+![Weather CLI Banner](banner.png)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Rumaisas-islam/weather-cli-app?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/Rumaisas-islam/weather-cli-app?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/Rumaisas-islam/weather-cli-app?style=flat-square)
