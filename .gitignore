@@ -1,0 +1,15 @@
+# ✅ Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# ✅ Environment variable file (contains your API key)
+.env
+
+# ✅ Runtime-generated history file (not needed in version control)
+history.txt
+
+# ✅ VS Code settings (optional)
+.vscode/
+
+# ✅ MacOS system file (optional)
+.DS_Store
